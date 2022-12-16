@@ -1,6 +1,4 @@
-# Random Users
-
-This SwiftUI app decodes JSON data and presents random users.
+# SwiftUI, JSON 
 
 This is an app from CodeCademy iOS Developer course.
 
